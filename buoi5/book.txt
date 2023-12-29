@@ -1,0 +1,1 @@
+ten: book1, gia: 1.0, so trang: 1

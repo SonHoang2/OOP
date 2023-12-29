@@ -1,0 +1,1 @@
+ten: bang1, gia: 1.0, playing time: 1.0
